@@ -11,6 +11,8 @@
    I was asked to implement a similar python class many years ago during a
    live coding interview - and vowed to re-implement my answer and share on
    github.
+
+   What is the time complexity of my join algorithm?
    
    Author: Anthony Asta
    Copyright: Copyright 2023, Anthony Asta
