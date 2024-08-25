@@ -3,7 +3,7 @@
 """CSV Join Operation
 
    Thie class implements a common join operation between two csv datasets
-   on a user specified key. It implements all join types:
+   on a user specified field. It implements all join types:
    inner, left, right, outer.  If no join type is specified it defaults to inner.
 
    Note: It does NOT use any dependent liraries like pandas.
