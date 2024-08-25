@@ -13,7 +13,7 @@
    github.
    
    Author: Anthony Asta
-   Corpyright: Copyright 2023, Anthony Asta
+   Copyright: Copyright 2023, Anthony Asta
 
 """
 
